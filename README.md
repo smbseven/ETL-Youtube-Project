@@ -8,9 +8,9 @@
 <h4>Instructions
 
 
-<h4>Contributors<br>
-<br>
-<br>
+<h4>Contributors  
+
+
 >1. Flores, Carlos:  
 >2. Hernández, Raúl:  
 >3. Mejía, Sergio:  
