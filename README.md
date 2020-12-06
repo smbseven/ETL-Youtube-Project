@@ -8,7 +8,8 @@
 <h4>Instructions
 
 
-<h4>Contributors
+<h4>Contributors  
+  
   
   Flores, Carlos:  
   Hernández, Raúl:  
