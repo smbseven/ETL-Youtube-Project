@@ -15,9 +15,9 @@ datos datos
 lorem ipsum
 1. Flores, Carlos: https://github.com/catu099
 2. Hernández, Raúl:  
-3. Mejía, Sergio:  
+3. Mejía, Sergio: https://github.com/smbseven
 4. Vázquez, Luz Del Cármen: https://github.com/luzvazgal
-5. Vicario, Liliana:  
+5. Vicario, Liliana: https://github.com/raciv65
   
 <h4>References<h4>
 
