@@ -8,7 +8,7 @@
 <h4>Instructions
 
 
-<h4>Contributors  
+<h4>Contributors<br>
   
   
 1. Flores, Carlos:  
