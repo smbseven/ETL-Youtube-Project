@@ -13,11 +13,11 @@ datos datos
 <h4>Contributors<h4>
 
 lorem ipsum
->1. Flores, Carlos:  
->2. Hernández, Raúl:  
->3. Mejía, Sergio:  
->4. Vázquez, Luz Del Cármen:  
->5. Vicario, Liliana:  
+1. Flores, Carlos: https://github.com/catu099
+2. Hernández, Raúl:  
+3. Mejía, Sergio:  
+4. Vázquez, Luz Del Cármen:  
+5. Vicario, Liliana:  
   
 <h4>References<h4>
 
