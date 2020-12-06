@@ -11,11 +11,11 @@
 <h4>Contributors  
   
   
-*Flores, Carlos:  
-*Hernández, Raúl:  
-*Mejía, Sergio:  
-*Vázquez, Luz Del Cármen:  
-*Vicario, Liliana:  
+1. Flores, Carlos:  
+2. Hernández, Raúl:  
+3. Mejía, Sergio:  
+4. Vázquez, Luz Del Cármen:  
+5. Vicario, Liliana:  
   
 <h4>References
 
