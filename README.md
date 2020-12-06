@@ -1,14 +1,14 @@
 #ETL-Youtube-Project
 
-###ETL Project based on Youtube data
+<h3>ETL Project based on Youtube data
 
-####Project Overview
-
-
-####Instructions
+<h4>Project Overview
 
 
-####Contributors  
+<h4>Instructions
+
+
+<h4>Contributors  
   
   
 *Flores, Carlos:  
@@ -17,8 +17,8 @@
 *Vázquez, Luz Del Cármen:  
 *Vicario, Liliana:  
   
-####References
+<h4>References
 
-####Log
+<h4>Log
   Repository created on 12/6/2020
   
