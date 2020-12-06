@@ -9,8 +9,8 @@
 
 
 <h4>Contributors<br>
-  
-  
+<br>
+<br>
 >1. Flores, Carlos:  
 >2. Hernández, Raúl:  
 >3. Mejía, Sergio:  
