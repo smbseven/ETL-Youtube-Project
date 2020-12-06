@@ -1,24 +1,24 @@
-<h1>ETL-Youtube-Project
+#ETL-Youtube-Project
 
-<h3>ETL Project based on Youtube data
+###ETL Project based on Youtube data
 
-<h4>Project Overview
-
-
-<h4>Instructions
+####Project Overview
 
 
-<h4>Contributors  
+####Instructions
+
+
+####Contributors  
   
   
-  Flores, Carlos:  
-  Hernández, Raúl:  
-  Mejía, Sergio:  
-  Vázquez, Luz Del Cármen:  
-  Vicario, Liliana:  
+*Flores, Carlos:  
+*Hernández, Raúl:  
+*Mejía, Sergio:  
+*Vázquez, Luz Del Cármen:  
+*Vicario, Liliana:  
   
-<h4>References
+####References
 
-<h4>Log
+####Log
   Repository created on 12/6/2020
   
