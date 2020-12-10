@@ -1,6 +1,6 @@
-#ETL-Youtube-Project#
+ETL-Youtube-Project
 
-<h4>ETL Project based on Youtube data<h3>  
+<h4>ETL Project based on Youtube data<h4>  
 
 
 As part of the ETL Challenge, we decided to work on a Youtube Dataset found in Kaggle.
@@ -80,6 +80,12 @@ we decided to stick to one country and develop the full process. As is shown, we
   <h4>Files<h4>  
  
  Within the present repository, the reader will find the following files / folders:  
+ .ipynb_checkpoints - Jupyter notebooks used by the team members to start testing different hypothesis of the data  
+ .DS_Store - Datasets and Dataframes  
+ DB Documentadion.pdf - Database Schema  
+ DB design.png - Database Schema diagram  
+ ExtractandExploringData3.ipynb - Full project code with comments  
+ 
  
  
   
