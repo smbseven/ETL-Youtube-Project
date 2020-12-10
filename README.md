@@ -1,6 +1,6 @@
 #ETL-Youtube-Project
 
-<h3>ETL Project based on Youtube data<h3>
+<h3>ETL Project based on Youtube data<h3>  
 
 
 As part of the ETL Challenge, we decided to work on a Youtube Dataset found in Kaggle.
@@ -9,7 +9,10 @@ YouTube maintains a list of the top trending videos on the platform
 In order to determine which videos are trending, YouTube uses a combination of factors including user interactions  
 (number of views, shares, comments and likes)  
 
-Project goal: Transform the given datasets to simplify queries based on tags, likes, dislikes, views & category id   
+The challenge is that although the datasets exists, it is very difficult for the common user to get a sense of the information because everything  
+is presented on a table, tags are integrated in a single field separated via a "|" and they are not exploitable.  
+
+Project goal: Transform the given datasets to simplify user consumption through queries based on tags, likes, dislikes, views & category id   
 
 
 <h4>Project Overview<h4>  
