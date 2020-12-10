@@ -1,6 +1,6 @@
-#ETL-Youtube-Project
+#ETL-Youtube-Project#
 
-<h3>ETL Project based on Youtube data<h3>  
+<h4>ETL Project based on Youtube data<h3>  
 
 
 As part of the ETL Challenge, we decided to work on a Youtube Dataset found in Kaggle.
@@ -75,4 +75,11 @@ we decided to stick to one country and develop the full process. As is shown, we
   The only tool discussion happened at the Database level, considerng that we had a CSV file and a JSON file, we weren't really sure whether to use MongoDB  
   of PostgreSQL, however, since all of our data is structured, it was evident that SQL would give us the best possible structure for the project and a cleaner,   
   quicker output for the project.  
+  
+  
+  <h4>Files<h4>  
+ 
+ Within the present repository, the reader will find the following files / folders:  
+ 
+ 
   
