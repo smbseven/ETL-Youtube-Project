@@ -45,7 +45,8 @@ The Notebook contains the full workflow developed by the team. Complying with th
 structured and formatted to comply with the normalization structure.  
 <li>The fourth part of the project creates the respective dataframes within pandas to ensure that those dataframes match with the tables</li> 
 </ul>
-Loading:  
+
+<h4>Loading:</h4>  
 
 <ul>
 <li>The fifth part of the project was to design the DB Schemas, fof that we used Quick DBD to design the Schema and then, we programed entirely the database  
