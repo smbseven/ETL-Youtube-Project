@@ -64,16 +64,17 @@ Our initial goal was to integrate multiple countries to try and figure out if th
   
 
 <h4>Tools Used</h4>  
-  Kaggle - Dataset  
-  Jupyter Notebook - Coding  
-  Github - Version management and integration  
-  Quick DBD - Schema design  
-  Postgres - SQL Database  
+- Kaggle: Dataset  
+- Jupyter Notebook: Coding  
+- Github: Version management and integration  
+- Quick DBD: Schema design  
+- Postgres: SQL Database  
   
   <h5>Tool selection:</h5>  
   
-  The only tool discussion happened at the Database level, considerng that we had a CSV file and a JSON file, we weren't really sure   whether to use MongoDB of PostgreSQL, however, since all of our data is structured, it was evident that SQL would give us the best possible structure for the project and a cleaner,   
-  quicker output for the project.  
+  The only tool discussion happened at the Database level, considering that we had a CSV file and a JSON file, we weren't really sure whether to use MongoDB  
+  or PostgreSQL, however, since all of our data is structured and in fact, there is a lot of shared data, normalizing through SQL would give us the best   
+  possible structure for the project and a cleaner, quicker output for the project.   
   
   
   <h4>Files</h4>  
