@@ -5,7 +5,7 @@
 
 As part of the ETL Challenge, we decided to work on a Youtube Dataset found in Kaggle.
 The dataset is called <strong>‘Trending YouTube Video Statistics’</strong>.  
-YouTube maintains a list of the top trending videos on the platform  
+YouTube maintains a list of the top trending videos on the platform.  
 In order to determine which videos are trending, YouTube uses a combination of factors including user interactions  
 (number of views, shares, comments and likes)  
 
@@ -31,14 +31,14 @@ The dataset includes two different files for nine countries (and counting) with 
 In order to simplify the flow of this project, we decided to create a single Jupyter Notebook.  
 The Notebook contains the full workflow developed by the team. Complying with the approptiate ETL Structure.  
 
-Extraction:  
+<h4>Extraction:</h4>  
 
 <ul>
  <li> The first part of the project extracts data directly from Kaggle using an API  </li>
 <li>The second part of the project is designed to understand the received data and its characterization </li>
  </ul>
 
-Trabsformation:  
+<h4>Trabsformation:</h4>  
 
 <ul>
 <li>The third part of the project is the data transformation: getting the right data for the purpose of the exercise. Additionally, the presented data is cleaned,</li> 
@@ -53,7 +53,7 @@ Loading:
 <li>The sixth part of the project was to test our plan based on multiple queries that would show the data usability and purpose once it was formatted</li>
  </ul>
 
-Challenges:  
+<h4>Challenges:</h4> 
 
 Our initial goal was to integrate multiple countries to try and figure out if there were any matching trends within them, however, coding proved to be extremely complicated, and, although we did try to clean the respective datasets, considering the time given and the extent of the cleansing required  
 we decided to stick to one country and develop the full process. As is shown, we decided to work with UK's dataset.  
@@ -74,7 +74,7 @@ we decided to stick to one country and develop the full process. As is shown, we
   Quick DBD - Schema design  
   Postgres - SQL Database  
   
-  Tool selection:  
+  <h5>Tool selection:</h5>  
   
   The only tool discussion happened at the Database level, considerng that we had a CSV file and a JSON file, we weren't really sure   whether to use MongoDB of PostgreSQL, however, since all of our data is structured, it was evident that SQL would give us the best possible structure for   the project and a cleaner,   
   quicker output for the project.  
