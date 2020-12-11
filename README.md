@@ -1,6 +1,6 @@
 ETL-Youtube-Project
 
-<h4>ETL Project based on Youtube data<h4>  
+<h4>ETL Project based on Youtube data</h4>  
 
 
 As part of the ETL Challenge, we decided to work on a Youtube Dataset found in Kaggle.
@@ -15,7 +15,7 @@ is presented on a table, tags are integrated in a single field separated via a "
 Project goal: Transform the given datasets to simplify user consumption through queries based on tags, likes, dislikes, views & category id   
 
 
-<h4>Project Overview<h4>  
+<h4>Project Overview</h4>  
  
 
 The dataset includes two different files for nine countries (and counting) with the following structure:    
@@ -26,7 +26,7 @@ You can find the dataset here:
 https://www.kaggle.com/datasnaek/youtube-new  
 
 
-<h4>Instructions<h4>  
+<h4>Instructions</h4>  
 
 In order to simplify the flow of this project, we decided to create a single Jupyter Notebook.  
 The Notebook contains the full workflow developed by the team. Complying with the approptiate ETL Structure.  
@@ -55,7 +55,7 @@ extremely complicated, and, although we did try to clean the respective datasets
 we decided to stick to one country and develop the full process. As is shown, we decided to work with UK's dataset.  
 
 
-<h4>Contributors<h4>  
+<h4>Contributors</h4>  
 
 1. Flores, Carlos: https://github.com/catu099  
 3. Mejía, Sergio: https://github.com/smbseven  
@@ -63,7 +63,7 @@ we decided to stick to one country and develop the full process. As is shown, we
 5. Vicario, Liliana: https://github.com/raciv65  
   
 
-<h4>Tools Used<h4>  
+<h4>Tools Used</h4>  
   Kaggle - Dataset  
   Jupyter Notebook - Coding  
   Github - Version management and integration  
@@ -77,7 +77,7 @@ we decided to stick to one country and develop the full process. As is shown, we
   quicker output for the project.  
   
   
-  <h4>Files<h4>  
+  <h4>Files</h4>  
  
  Within the present repository, the reader will find the following files / folders:  
  .ipynb_checkpoints - Jupyter notebooks used by the team members to start testing different hypothesis of the data  
